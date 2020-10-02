@@ -40,7 +40,7 @@ ContextMenu - simulated right-click upon pressing ALT+LWin
 
 ctrlq - same as CTRL+F4 (usually to close browser tabs)  
 
-Date Time - LWin + Right Arrow Key gives current datetimestamp  
+Date Time - CTRL + SHIFT + Right Arrow Key gives current datetimestamp  
 
 Easy Window Dragging - hold down caps lock key and drag a window without having to place mouse on titlebar.  
 
