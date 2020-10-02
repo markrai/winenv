@@ -1,4 +1,4 @@
-# env
+# winenv
 An opinionated environment for Windows, leveraging command-line shortcuts, and AutoHotKey key-bindings
 
 # Story
