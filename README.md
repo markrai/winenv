@@ -58,7 +58,10 @@ winD Dropbox - WinKey + D opens D:\ (mapped to Dropbox).
 
 These are suggestions which you can implement by re-mapping your keys as follows:
 prt scr/sys rq  -> copy
+
 scr lk -> cut
+
 pause break -> paste
+
 
 Also, keyboards such as Razer provide you with an FN key which allows you to use any key on your keyboard in conjunction with the FN key to run a number of macros. So that's also worth looking at.
