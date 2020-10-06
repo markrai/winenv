@@ -57,6 +57,7 @@ winD Dropbox - WinKey + D opens D:\ (mapped to Dropbox).
 # Extras
 
 These are suggestions which you can implement by re-mapping your keys as follows:
+
 prt scr/sys rq  -> copy
 
 scr lk -> cut
