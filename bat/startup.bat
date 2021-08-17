@@ -1,0 +1,1 @@
+start C:\users\%username%\AppData\Roaming\Microsoft\Windows\Startm~1\Programs\Startup
